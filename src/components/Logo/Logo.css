@@ -1,4 +1,4 @@
 .Tilt {
-  background: linear-gradient(89deg, #FF5EDF 0%, #04c8de 100%);
-     
+  background: #F6F6F6;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);  
 }

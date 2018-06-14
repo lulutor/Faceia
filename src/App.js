@@ -89,6 +89,7 @@ class App extends Component {
         <Navigation isSignedIn={isSignedIn} onRouteChange={this.onRouteChange}/>
         { route === 'home' 
           ?<div>
+
           <Logo />
           <Rank />
           <ImageLinkForm 
